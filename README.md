@@ -2,4 +2,4 @@
 - 👀 I’m interested in cryptography and privacy
 - 🌱 I’m currently learning about blockchain technology
 - 💞️ I’m looking to collaborate on challenging and fun open-source projects involving cryptography and privacy aspects
-- 📫 Reach me on through my [personal website](https://danielementary.me)
+- 📫 Reach me through my [personal website](https://danielementary.me)
